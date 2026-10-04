@@ -2,6 +2,10 @@
 
 Aplikasi desktop untuk menerjemahkan isyarat BISINDO secara real-time dari sarung tangan IoT menjadi teks dan suara, menggunakan model CNN-LSTM.
 
+---
+![alt text](https://github.com/iosramgio/sketch_esp32/blob/main/public/Screenshot%202026-08-30%20231856.png)
+
+
 ## Cara Kerja
 
 1. Menerima data sensor (flex + IMU) dari ESP32 via MQTT
